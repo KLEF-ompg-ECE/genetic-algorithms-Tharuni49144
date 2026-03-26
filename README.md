@@ -1,8 +1,8 @@
 # Assignment 2 — Genetic Algorithm: Knapsack Problem
 ## Observation Report
 
-**Student Name  :** B.Srija HItheshna
-**Student ID    :** 2310049143
+**Student Name  :** B. Tharuni Reddy
+**Student ID    :** 2310049144
 **Date Submitted:** 21/03/2026  
 
 ---
